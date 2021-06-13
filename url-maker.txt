@@ -1,0 +1,5 @@
+1. save code 수정
+2. 판서 피피티로 정리
+3. 피피티 day3 자세한 내용 피피티에 다 넣기
+4. 지오 코드 내 gist로 옮기고 링크 바꿔놓기 + 인덴트 수정
+https://www.kaggle.com/t/c5ba45a8b05443f3b1a62c50cb9188a6
